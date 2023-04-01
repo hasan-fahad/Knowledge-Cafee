@@ -1,0 +1,46 @@
+.main-container{
+    margin-bottom: 40px;
+}
+.main-container img{
+    width: 100%;
+    border-radius: 10px;
+}
+.main-body{
+    display: flex;
+    margin: 10px;
+}
+.main-body img{
+    margin-top: 5px;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.name h4{
+    margin-bottom: 0.2rem;
+}
+.name h6{
+    font-size:small;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.reading{
+    margin-top: 10px;
+}
+.reading-contaier{
+    display: flex;
+}
+.book-mark-btn{
+    width: 40px;
+    height: 40px;
+}
+.description{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 52px ;
+}
+.read-btn{
+    color: #6047EC;
+}
